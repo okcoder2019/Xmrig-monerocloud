@@ -1,0 +1,15 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "ca.minexmr.com:443",
+            "user": "4789eZA6wEZa9C1uCy8wPHckswCAzUCnPiaigPV2o8wh8eus2PJrLH4G2438XrZnZ4f8LeTXtRs5nTRJ7hnrvkQz7iGYUHS",
+            "rig-id": "Gogle cloud server",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
